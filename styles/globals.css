@@ -14,3 +14,30 @@ body {
 .content-desc ol {
   @apply list-disc ml-10 py-5;
 }
+
+@font-face {
+  font-family: "Bookerly";
+  src: url("/fonts/Bookerly-Regular.ttf");
+}
+@font-face {
+  font-family: "Bookerly-Bold";
+  src: url("/fonts/Bookerly-Bold.ttf");
+}
+@font-face {
+  font-family: "AquilineTwo";
+  src: url("/fonts/AquilineTwo.ttf");
+}
+
+.Bookerly {
+  font-family: "Bookerly";
+}
+.Bookerly-Bold {
+  font-family: "Bookerly-Bold";
+}
+.AquilineTwo {
+  font-family: "AquilineTwo";
+}
+.Typewriter {
+  margin-bottom: 70px;
+}
+

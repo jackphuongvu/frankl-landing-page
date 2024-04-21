@@ -1,6 +1,7 @@
 module.exports = {
   reactStrictMode: true,
-  images: {
-    domains: ['res.cloudinary.com', 'localhost', 'portfolio.haruthya.my.id', 'free-css.com'],
-  },
+  // images: {
+  //   // unoptimized: true
+  //   domains: ['res.cloudinary.com', 'localhost', 'portfolio.haruthya.my.id', 'free-css.com'],
+  // },
 }

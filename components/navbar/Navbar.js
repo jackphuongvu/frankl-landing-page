@@ -41,13 +41,18 @@ export default function Navbar() {
                 />
               </svg>
             </button>
+
             <ul className="xl:flex hidden">
               <NavItem href="/">Home</NavItem>
-              <NavItem href="/about">About</NavItem>
+    <NavItem href="/about">About</NavItem>
+  {/*
+
               <NavItem href="/portfolio">Portfolio</NavItem>
               <NavItem href="/contact">Contact</NavItem>
+    */}
             </ul>
-          </div>
+
+</div>
         </div>
       </div>
       <NavMobile isOpen={isOpen}>

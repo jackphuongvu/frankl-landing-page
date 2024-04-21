@@ -8,6 +8,8 @@ export default function Custom404() {
     const router = useRouter();
     return (
         <div className='flex h-screen -mt-20 justify-center flex-col items-center'>
+
+
             <MetaSeo
                 title="404 - Harithya Wisesa"
                 description="Opps sepertinya anda tersesat, anda dapat kembali ke halaman home"
