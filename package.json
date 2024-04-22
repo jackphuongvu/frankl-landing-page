@@ -2,9 +2,10 @@
   "name": "portfolio",
   "private": true,
   "scripts": {
+    "start": "next start -p 3033",
     "dev": "next dev",
     "build": "next build",
-    "start": "NODE_ENV=production node server.js",
+    "start_server": "NODE_ENV=production node server.js",
     "lint": "next lint",
     "export": "next export"
   },
