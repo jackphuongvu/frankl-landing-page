@@ -11,7 +11,7 @@ export default function Home({ setting }) {
     <div className="flex justify-center h-[90vh] xl:items-center xl:flex-row flex-col-reverse">
       <MetaSeo
         // title="Hello World, i`m Harithya Wisesa"
-        title="Viktor Frankl"
+        title="Frankl AI"
         // description="Hello World, nama saya Harithya Wisesa, saat ini saya bekerja di sebuah IT Contsultant di Tasikmalaya sebagai fullstack developer. Tapi untuk saat ini saya lebih cenderung bekerja di bagian mobile developer dan juga fontend menggunakan ekosistem React baik itu React JS ataupun React Native."
       />
       <div className="xl:w-7/12" data-aos="fade-up">
