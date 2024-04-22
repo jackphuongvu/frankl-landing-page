@@ -31,7 +31,7 @@ export default function Home({ setting }) {
           />
         </h1>
         <p className="mt-5 mb-4 text-center xl:text-left leading-7 Bookerly">
-    <Link href="#"><a>My job</a></Link> is to learn everything about you. I want to know you better than you know yourself, because my job is to introduce you to people who are going to love you. But be warned, I’m a tough judge of character, and I have to want to introduce you to my friends. That said, I think I'm gonna love you.
+    <Link href="#"><a>My job</a></Link> is to learn everything about <Link href="https://journal.frankl.ai/"><a>you</a></Link>. I want to know you better than you know yourself, because my job is to introduce you to people who are going to love you. But be warned, I’m a tough judge of character, and I have to want to introduce you to my friends. That said, I think I'm gonna love you.
         </p>
 
       </div>
